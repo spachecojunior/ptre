@@ -1,5 +1,6 @@
 swagger: "2.0"
-apiVersion: backstage.io/v1alpha1
+apiVersion: poc-cbackstage/1
+kind: Component
 info:
   description: "Documentacao dos recursos de APIs para gerencimento de recuperacao de Payloads."
   version: "1.0.0"
